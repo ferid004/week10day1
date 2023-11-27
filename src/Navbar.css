@@ -1,0 +1,23 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.bunaneceolur{
+    padding: 20px;
+}
+.bunaneceolur:hover{
+    background-color: yellowgreen;    
+    color: white;
+}
+
+
+.active{
+    background: yellowgreen;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
